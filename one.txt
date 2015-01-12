@@ -1,1 +1,2 @@
-1. Jest to mój pierwszy dzień pracy z Gitem. Podoba mi się :)
+1. Jest to mój pierwszy dzień pracy z Gitem. Podoba mi się
+2. Git to najfajniejsze repozytorium na świecie – na pewno tak jest :)
