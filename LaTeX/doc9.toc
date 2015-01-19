@@ -1,0 +1,8 @@
+\contentsline {chapter}{\numberline {1}Historia}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Czym jest i jak powsta\IeC {\l }}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Wzory}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Graficzna reprezentacja Liczb Fibonacciego}{3}{section.1.3}
+\contentsline {chapter}{\numberline {2}\color {green}Przyk\IeC {\l }ady Liczb Fibonacciego w naturze}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}\color {orange}Ludzkie proporcje}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}\color {blue}Przyk\IeC {\l }ady z natury}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}Fraktale}{6}{section.2.3}

@@ -1,0 +1,15 @@
+\begin{titlepage}
+
+\includegraphics[width=0.15\textwidth]{./kurczak.png}~\\[1cm]
+
+\textsc{\LARGE Projekt}\\[1.5cm]
+
+\textsc{\Large <<>>}\\[0.5cm]
+
+
+\HRule \\[0.4cm]
+{ \huge \bfseries \SuPeR TiTlE \\[0.4cm] }
+
+\HRule \\[1.5cm]
+
+\end{titlepage}
